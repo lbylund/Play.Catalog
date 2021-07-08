@@ -3,18 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Play.Catalog.Service;
 using Play.Catalog.Service.Entities;
 using Play.Catalog.Service.Repositories;
 
 namespace Play.Catalog.Service.Controllers
 {
-  //https://localhost:5001/items
+  // https://localhost:5001/items
   [ApiController]
   [Route("items")]
   public class ItemsController : ControllerBase
   {
-    private readonly ItemsRepository itemsRepository = new();
+    private readonly IItemsRepository itemsRepository;
+
+    public ItemsController(IItemsRepository itemsRepository)
+    {
+      this.itemsRepository = itemsRepository;
+    }
 
     // private static readonly List<ItemDto> items = new()
     // {
