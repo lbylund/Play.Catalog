@@ -11,7 +11,6 @@ C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.
 C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csprojAssemblyReference.cache
 C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfoInputs.cache
 C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfo.cs
@@ -39,3 +38,4 @@ C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.
 C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Lars\source\repos\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.AssemblyReference.cache
